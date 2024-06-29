@@ -3,7 +3,7 @@
 CommentCleaner is a lightweight static web app crafted with HTML, CSS, and JavaScript. It helps you tidy up your Python code by removing comments, making it simpler and faster to work with.
 
 
-[Comment cleaner]https://github.com/GoliathReaper/CommentCleaner/assets/77969919/bbfd454d-dcfe-4be8-b189-b74e9a79305a
+https://github.com/GoliathReaper/CommentCleaner/assets/77969919/bbfd454d-dcfe-4be8-b189-b74e9a79305a
 
 
 ## Features
